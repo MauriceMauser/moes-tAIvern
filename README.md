@@ -1,7 +1,8 @@
 # moes-tAIvern
 udacity deep learning
 
-"moe_szyslak: after this, ain't no turning back.
+# ain't no turning back...
+moe_szyslak: after this, ain't no turning back.
 
 
 lenny_leonard: you know, i love our valentine's day tradition of going out with each others' sisters.
@@ -34,4 +35,4 @@ moe_szyslak: yeah, i don't blame her.(looking in mirror) no girl wants to end it
 homer_simpson: hello, is this thing or is there anything first, but i am sure if you got anything that you want to go to hell.
 
 
-homer_simpson: what happened"
+homer_simpson: what happened
