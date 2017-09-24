@@ -1,4 +1,4 @@
-# moes-tAIvern
+# moe's tAIvern
 udacity deep learning
 
 # ain't no turning back...
