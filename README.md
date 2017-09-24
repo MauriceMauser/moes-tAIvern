@@ -37,4 +37,4 @@ moe_szyslak: yeah, i don't blame her.(looking in mirror) no girl wants to end it
 homer_simpson: hello, is this thing or is there anything first, but i am sure if you got anything that you want to go to hell.
 
 
-homer_simpson: what happened
+homer_simpson: **what happened**
