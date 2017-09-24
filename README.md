@@ -5,6 +5,8 @@ udacity deep learning
 moe_szyslak: after this, ain't no turning back.
 
 
+
+
 lenny_leonard: you know, i love our valentine's day tradition of going out with each others' sisters.
 
 
